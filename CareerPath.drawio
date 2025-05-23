@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.8">
   <diagram name="Page-1" id="ch33mIwnNdERNDNM6Gc4">
-    <mxGraphModel>
+    <mxGraphModel dx="2062" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-19" value="0" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="358" y="50" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-20" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CAREER PATH&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;SYSTEM&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=#d79b00;fillColor=#ffcd28;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;shadow=1;gradientColor=#ffa500;" vertex="1" parent="5juuMhJB8yKpf8BUpdrO-19">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5juuMhJB8yKpf8BUpdrO-22" target="5juuMhJB8yKpf8BUpdrO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-22" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ADMIN&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#00CC66;shadow=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="148" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="301" as="targetPoint" />
+            <mxPoint x="413" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-24" value="&lt;div&gt;&lt;font face=&quot;Tahoma&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;LOGIC&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#FF3333;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="302" width="148" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5juuMhJB8yKpf8BUpdrO-26" target="5juuMhJB8yKpf8BUpdrO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-26" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;USERS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;shadow=1;fillColor=#3399FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="688" y="100" width="148" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5juuMhJB8yKpf8BUpdrO-20" target="5juuMhJB8yKpf8BUpdrO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="153" as="sourcePoint" />
+            <mxPoint x="688" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.689;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5juuMhJB8yKpf8BUpdrO-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="467" y="170" as="targetPoint" />
+            <mxPoint x="467" y="298" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-30" value="&lt;div align=&quot;center&quot;&gt;Admin updates&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&amp;nbsp;system content&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-31" value="&lt;div align=&quot;center&quot;&gt;Students input&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;personality test answers&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="529" y="80" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-32" value="&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Students will&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;get the results&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="534" y="150" width="154" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-33" value="&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Admin removes outdated&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;system content&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="191" y="151" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-34" value="&lt;div align=&quot;center&quot;&gt;System processes&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&amp;nbsp;data and stores results&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="269" y="227" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5juuMhJB8yKpf8BUpdrO-35" value="&lt;div align=&quot;center&quot;&gt;Recommendation&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;engine suggests careers&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="227" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
